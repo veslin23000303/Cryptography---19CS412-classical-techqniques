@@ -360,7 +360,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "SUBALAKSHMKI");
+    strcpy(msg, "VESLINANISH");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
